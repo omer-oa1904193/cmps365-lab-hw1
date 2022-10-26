@@ -1,0 +1,7 @@
+h1{
+    /* Proof that style is not scoped, Hello component also affected */
+    color: red;
+}
+p{
+    color:red;
+}
